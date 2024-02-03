@@ -1,1 +1,1 @@
-function calcAverageCalories(days) {}
+// function calcAverageCalories(days) {}
